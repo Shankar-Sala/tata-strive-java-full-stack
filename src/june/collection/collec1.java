@@ -1,0 +1,9 @@
+package june.collection;
+
+/*
+Generics ARE FEATURES OF THE JAVA PROGRAMMING LANGUAGE THAT ALLOW PROGRAMERS TO WRITE PARAMETERIZED CODE.
+
+* */
+public class collec1 {
+
+}
